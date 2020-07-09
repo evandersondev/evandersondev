@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello, I'm Evanderson Vasconcelos 👋
+### I’m currently working on SoftExpert as a Software Engineer
 
+` My passions: NodeJS, ReactJS, React Native, Typescript `
 <!--
 **evandersondev/evandersondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
