@@ -1,7 +1,7 @@
-# Hello, I'm Evanderson Vasconcelos 👋
-### I’m currently working on SoftExpert as a Software Engineer
+## Hello guys 👋
+My name is **Evanderson Vasconcelos** and I'm a **Software Engineer** at [SoftExpert](https://www.softexpert.com/pt-br/), currently learning about Node, ReactJS, React Native and Typescript, I love everything about javascript and I'm also studying English.
 
-` My passions: NodeJS, ReactJS, React Native, Typescript `
+_This is my [Website](https://evandersondev.netlify.app/)_
 <!--
 **evandersondev/evandersondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
