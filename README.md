@@ -9,7 +9,7 @@
         <h3>Welcome to my world</h3>
       </div>
       <p>
-        My name is <strong>Evanderson Vasconcelos</strong> and I'm a <strong>Software Engineer</strong> at <a href="https://www.softexpert.com/pt-br/">SoftExpert</a>, currently learning about Node, ReactJS, React Native and Typescript, I love everything about javascript and I'm also studying English.
+        My name is <strong>Evanderson Vasconcelos</strong>, currently learning about Node, ReactJS, React Native and Typescript, I love everything about javascript and I'm also studying English.
       </p>
   </header>
 
