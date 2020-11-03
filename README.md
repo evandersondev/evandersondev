@@ -1,33 +1,14 @@
-<link rel="stylesheet" type="text/css" href="style.css" />
+<h1 algin="center">
+  <img src="./assets/Banner.png" width="100%" />
+</h1>
 
-<div class="container">
-  <header>
-      <h1>
-        Hello guys 👋<br>I'm Evanderson
-      </h1>
-      <div class="h3-container">
-        <h3>Welcome to my world</h3>
-      </div>
-      <p>
-        My name is <strong>Evanderson Vasconcelos</strong>, currently learning about Node, ReactJS, React Native and Typescript, I love everything about javascript and I'm also studying English.
-      </p>
-  </header>
+---
 
-  <h4>Main skills</h4>
-  <section class="skills-container">
-    <span class="skills">NodeJS</span>
-    <span class="skills">ReactJS</span>
-    <span class="skills">React Native</span>
-    <span class="skills">Typescript</span>
-  </section>
+## Hello guys 👋
+### Welcome to my world
 
-  <section class="links-container">
-    <a href="http://evandersondev.netlify.app" class="links">
-      Portfolio
-    </a>
-    <a href="https://www.linkedin.com/in/evandersondev/" class="links">
-      linkedin
-    </a>
-    <a class="links"></a>
-  </section>
-</div>
+My name is **Evanderson Vasconcelos**, currently learning about Node, ReactJS, React Native and Typescript, I love everything about javascript and I'm also studying English.
+
+**<a href="http://evandersondev.netlify.app">
+  Portfolio
+</a>**
