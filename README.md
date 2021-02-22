@@ -1,5 +1,5 @@
 <h1 algin="center">
-  <img src="./assets/Banner.png" width="100%" />
+  <img src="./assets/banner.png" width="100%" />
 </h1>
 
 ---
