@@ -36,7 +36,7 @@ Sou apaixonado por **código limpo, arquitetura escalável** e **desenvolvimento
 | 🍷 [**Dartonic**](https://github.com/evandersondev/dartonic) | Query Builder inspirado no Drizzle para Dart. | Dart |
 | 🎯 [**ArchDart**](https://github.com/evandersondev/dartonic) | Framework para testes de arquitetura baseado no ArchUnit. | Dart / Flutter |
 | 🐌 [**Snail**](https://github.com/evandersondev/snail) | ORM inspirado no Spring Data JPA para SQLite no Flutter. | Dart / Flutter |
-| ⚡ [**Injectfy**](https://github.com/evandersondev/injectfy) | Injeção de dependência simples e eficiente em Dart. | Dart |
+| ⚡ [**Injectfy**](https://github.com/evandersondev/injectfy) | Injeção de dependência simples e eficiente em Dart. | Dart / Flutter |
 
 ---
 
