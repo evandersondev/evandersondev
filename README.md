@@ -51,7 +51,7 @@ Atualmente aprofundando conhecimentos em:
 
 ### 🌐 Onde me encontrar
 📫 **Email:** evandersonvasconcelos23@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/evandersonvasconcelos](https://linkedin.com/in/evandersondev)  
+🔗 **LinkedIn:** [linkedin.com/in/evandersondev](https://linkedin.com/in/evandersondev)  
 🐙 **GitHub:** [github.com/evandersondev](https://github.com/evandersondev)
 
 ---
