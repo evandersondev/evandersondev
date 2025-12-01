@@ -31,12 +31,12 @@ Sou apaixonado por **código limpo, arquitetura escalável** e **desenvolvimento
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| 🧱 [**Darto**](https://github.com/evandersondev/darto) | Microframework inspirado no Express para Dart. | Dart |
-| 🔍 [**Zard**](https://github.com/evandersondev/zard) | Biblioteca para validação e transformação de dados. | Dart |
+| 🐶 [**Darto**](https://github.com/evandersondev/darto) | Microframework inspirado no Express para Dart. | Dart |
+| 🧩 [**Zard**](https://github.com/evandersondev/zard) | Biblioteca para validação e transformação de dados. | Dart |
 | 🍷 [**Dartonic**](https://github.com/evandersondev/dartonic) | Query Builder inspirado no Drizzle para Dart. | Dart |
 | 🎯 [**ArchDart**](https://github.com/evandersondev/dartonic) | Framework para testes de arquitetura baseado no ArchUnit. | Dart / Flutter |
 | 🐌 [**Snail**](https://github.com/evandersondev/snail) | ORM inspirado no Spring Data JPA para SQLite no Flutter. | Dart / Flutter |
-| ⚡ [**Injectfy**](https://github.com/evandersondev/injectfy) | Injeção de dependência simples e eficiente em Dart. | Dart / Flutter |
+| 💉 [**Injectfy**](https://github.com/evandersondev/injectfy) | Injeção de dependência simples e eficiente em Dart. | Dart / Flutter |
 
 ---
 
