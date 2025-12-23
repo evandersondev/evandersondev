@@ -10,7 +10,7 @@ Sou apaixonado por **código bem estruturado**, **arquitetura** e **desenvolvime
 
 ## 🚀 Sobre mim
 - ☕ Em transição estratégica para **backend com Java**, aplicando conceitos de arquitetura, domínio e boas práticas.
-- 🧱 Experiência sólida em **frontend (React)** e **backend (Node.js, Dart e Go)**.
+- 🧱 Experiência sólida em **frontend (React)** e **backend (Node.js)**.
 - 📱 Atuação profunda com **Flutter**, desde os primeiros anos do framework.
 - 📦 Criador e mantenedor de **packages open source** utilizados pela comunidade Dart.
 - 🧠 Acredito que bons sistemas nascem do entendimento do **“porquê” antes do “como”**.
