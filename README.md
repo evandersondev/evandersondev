@@ -1,17 +1,14 @@
 # 👋 Olá! Eu sou o Evanderson Vasconcelos
 
-💻 **Desenvolvedor Fullstack** com mais de **5 anos de experiência**, atuando na construção de **aplicações backend, web e mobile**, com foco em **arquitetura limpa, escalabilidade e qualidade de código**.
-
-Atualmente, estou direcionando minha carreira para um perfil **Fullstack completo**, com foco em **backend Java**, **frontends modernos com React** e **mobile com Flutter**, sem abrir mão das boas práticas de engenharia de software.
+💻 **Desenvolvedor Fullstack** com mais de **6 anos de experiência**, atuando na construção de **aplicações mobile, web e backend**, com foco em **arquitetura limpa, escalabilidade e qualidade de código**.
 
 Sou apaixonado por **código bem estruturado**, **arquitetura** e **desenvolvimento open source**.
 
 ---
 
 ## 🚀 Sobre mim
-- ☕ Em transição estratégica para **backend com Java**, aplicando conceitos de arquitetura, domínio e boas práticas.
-- 🧱 Experiência sólida em **frontend (React)** e **backend (Node.js)**.
 - 📱 Atuação profunda com **Flutter**, desde os primeiros anos do framework.
+- 🧱 Experiência sólida em **frontend (React)** e **backend (Node.js)**.
 - 📦 Criador e mantenedor de **packages open source** utilizados pela comunidade Dart.
 - 🧠 Acredito que bons sistemas nascem do entendimento do **“porquê” antes do “como”**.
 - 🎯 Evolução constante como **engenheiro de software fullstack**.
@@ -20,12 +17,12 @@ Sou apaixonado por **código bem estruturado**, **arquitetura** e **desenvolvime
 
 ## 🧰 Tecnologias e ferramentas
 
+### 🖥️ Frontend & Mobile
+`React` • `TypeScript` • `HTML` • `CSS` • `Flutter`
+
 ### ⚙️ Backend
 `Java` • `Node.js` • `Express` • `Dart` • `Go`  
 `PostgreSQL` • `SQLite` • `MongoDB` • `Firebase` • `GraphQL`
-
-### 🖥️ Frontend & Mobile
-`React` • `TypeScript` • `HTML` • `CSS` • `Flutter`
 
 ### 🧪 Arquitetura & Boas práticas
 `Clean Architecture` • `SOLID` • `MVVM` • `Modularização` • `Testes Unitários`
@@ -44,15 +41,6 @@ Sou apaixonado por **código bem estruturado**, **arquitetura** e **desenvolvime
 | 🎯 [**ArchDart**](https://github.com/evandersondev/arch_dart) | Testes de arquitetura inspirados no ArchUnit. | Dart / Flutter |
 | 🐌 [**Snail**](https://github.com/evandersondev/snail) | ORM inspirado no Spring Data JPA. | Dart / Flutter |
 | 💉 [**Injectfy**](https://github.com/evandersondev/injectfy) | Injeção de dependência simples e eficiente. | Dart / Flutter |
-
----
-
-## 📚 Em evolução constante
-Atualmente aprofundando conhecimentos em:
-- **Java e ecossistema backend**
-- **Arquitetura backend e design de APIs**
-- **Integração entre frontend, backend e mobile**
-- **Boas práticas de engenharia de software**
 
 ---
 
