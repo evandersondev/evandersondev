@@ -18,10 +18,10 @@ Sou apaixonado por **código bem estruturado**, **arquitetura** e **desenvolvime
 ## 🧰 Tecnologias e ferramentas
 
 ### 🖥️ Frontend & Mobile
-`React` • `TypeScript` • `HTML` • `CSS` • `Flutter`
+`Flutter` • `React` • `TypeScript` • `HTML` • `CSS` • 
 
 ### ⚙️ Backend
-`Java` • `Node.js` • `Express` • `Dart` • `Go`  
+`Dart` • `Node.js` • `Express`  • `Java` 
 `PostgreSQL` • `SQLite` • `MongoDB` • `Firebase` • `GraphQL`
 
 ### 🧪 Arquitetura & Boas práticas
